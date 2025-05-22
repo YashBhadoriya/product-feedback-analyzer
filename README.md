@@ -35,8 +35,3 @@ Built to help product managers uncover insights, improve UX, and make data-backe
 | Matplotlib  | Visualizations                   |
 
 ---
-
-## ⚙️ How to Run Locally
-
-1. **Clone this repo**
-```bash
